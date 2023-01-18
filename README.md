@@ -21,7 +21,7 @@ This tutorial guides configuring Roles, Departments, Teams, Agents, Users, SLA a
 - Windows 10 (2 vCPUs)
 
 <h2>Documentation</h2>
-[osTicket 1.15.8](https://docs.osticket.com/en/v1.15.8/)
+- ### [osTicket 1.15.8](https://docs.osticket.com/en/v1.15.8/)
 
 <h2>Post-installation and Configuration Steps</h2>
 
