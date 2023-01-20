@@ -3,12 +3,11 @@
 </p>
 
 <h1>osTicket - Setting up a Helpdesk Environment</h1>
-This tutorial guides configuring Roles, Departments, Teams, Agents, Users, SLA and Help Topics to simulate on-the-job ticketing system experience.<br/>
+This tutorial guides the configuration of Roles, Departments, Teams, Agents, Users, SLA and Help Topics to simulate on-the-job ticketing system experience.<br/>
 
+<!-- <h2>Video Demonstration</h2>
 
-<h2>Video Demonstration</h2>
-
-- ### [YouTube: How To Install osTicket with Prerequisites](https://www.youtube.com)
+- ### [YouTube: How To Install osTicket with Prerequisites](https://www.youtube.com) -->
 
 <h2>Environments and Technologies Used</h2>
 
@@ -27,36 +26,35 @@ This tutorial guides configuring Roles, Departments, Teams, Agents, Users, SLA a
 <h2>Post-installation and Configuration Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-1. Configure Roles
-Admin Panel -> Agents -> Roles
-Supreme Admin
-
-</p>
-<br />
-
-
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-2. Configure Departments
-Admin Panel -> Agents -> Departments
-System Administrators
-
-
+  1. Set up <a href="https://docs.osticket.com/en/latest/Admin/Agents/Roles.html">Roles</a> <br>
+Go to: <br>
+- Admin Panel <br>
+- Agents <br>
+- Roles <br>
+- Name new Role as: Supreme Admin (Whatever you like really)
 </p>
 <br />
-
-
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
+
+
+<p>  
+  2. Set up <a href="https://docs.osticket.com/en/v1.15.8/Admin/Agents/Departments.html">Departments</a> <br>
+Go to: <br>
+- Admin Panel <br>
+- Agents <br>
+- Departments <br>
+- Name new Department as: System Administrators
+</p>
+<br />
 <p>
-3. Configure Teams
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
+
+<p>
+3. Set up Teams <br>
 Admin Panel -> Agents -> Teams
 Level I Support
 Level II Support
