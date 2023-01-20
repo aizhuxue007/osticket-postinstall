@@ -2,7 +2,7 @@
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
 
-<h1>osTicket - Setting up a Helpdesk Environment</h1>
+<h1>Post-InstallationSetting up a Helpdesk Environment</h1>
 This tutorial guides the configuration of Roles, Departments, Teams, Agents, Users, SLA and Help Topics to simulate on-the-job ticketing system experience.<br/>
 
 <!-- <h2>Video Demonstration</h2>
