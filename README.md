@@ -73,8 +73,8 @@ This tutorial guides the configuration of Roles, Departments, Teams, Agents, Use
 5. Set up <a href="https://docs.osticket.com/en/v1.15.8/Admin/Agents/Agents.html">Agents</a> <br>
 - Admin Panel > Agents > Add New<br>
 - Add 2 New Agents: <br>
-&emsp;-Janette<br>
-&emsp;-Jim
+&emsp;- Janette<br>
+&emsp;- Jim
 </p>
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
