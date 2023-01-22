@@ -55,8 +55,7 @@ This tutorial guides the configuration of Roles, Departments, Teams, Agents, Use
 <p>
 3. Set up <a href="https://docs.osticket.com/en/v1.15.8/Admin/Agents/Teams.html">Teams</a><br>
 - Admin Panel > Agents > Teams <br>
-- Add 2 new Teams: <br>
-&emsp;- Level I Support <br>
+- Add new Team: <br>
 &emsp;- Level II Support <br>
 </p>
 <p>
